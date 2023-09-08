@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053475050390",
+    "project_id": "dumy-dccbd",
+    "storage_bucket": "dumy-dccbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053475050390:android:676622832e7a8d91fcc3b7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tutorial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053475050390-opoeb400d55k7sbeg8tl4ij38qqg05ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo5ifDk6vyp9vwLoqQ1s3ho6CxArjhsjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053475050390-opoeb400d55k7sbeg8tl4ij38qqg05ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
